@@ -47,7 +47,7 @@
 
 ## 发展里程碑
 
-![milepost](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/milepost.png)
+![milepost](/profile/img/milepost.png)
 
 ## 关于我们
 
@@ -62,25 +62,25 @@ ERD Online 论坛：[https://www.zerocode.net.cn](https://www.zerocode.net.cn)
 ## 功能图鉴
 
 ### 关系图设计
-![关系图](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/relation.png)
+![关系图](/profile/img/relation.png)
 
 ### 元数据设计
-![元数据](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/table.png)
+![元数据](/profile/img/table.png)
 
 ### 版本管理
-![版本管理](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/version.png)
+![版本管理](/profile/img/version.png)
 
 ### 导入
-![逆向解析](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/import.png)
+![逆向解析](/profile/img/import.png)
 
 ### 导出
-![导出DDL](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/export.png)
+![导出DDL](/profile/img/export.png)
 
 ### 在线SQL
-![SQL查询](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/query.png)
+![SQL查询](/profile/img/query.png)
 
 ### 执行计划
-![执行计划](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/explain.png)
+![执行计划](/profile/img/explain.png)
 
 
 

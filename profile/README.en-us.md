@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/logo.png)
+![Logo](/profile/img/logo.png)
 
 简体中文 | [English](/profile/README.en-us.md)
 
@@ -47,7 +47,7 @@
 
 ## Development Milestones
 
-![milepost](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/milepost.png)
+![milepost](/profile/img/milepost.png)
 
 ## About Us
 
@@ -62,25 +62,25 @@ Low code LOCO experience：[https://loco.zerocode.net.cn](https://loco.zerocode.
 ## Function Atlas
 
 ### Diagram Design
-![Diagram](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/relation.png)
+![Diagram](/profile/img/relation.png)
 
 ### Metadata Design
-![Metadata](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/table.png)
+![Metadata](/profile/img/table.png)
 
 ### Version Management
-![Version](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/version.png)
+![Version](/profile/img/version.png)
 
 ### Import
-![Import](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/import.png)
+![Import](/profile/img/import.png)
 
 ### Export
-![Export DDL](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/export.png)
+![Export DDL](/profile/img/export.png)
 
 ### Online SQL
-![Online SQL](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/query.png)
+![Online SQL](/profile/img/query.png)
 
 ### SQL Explain
-![SQL Explain](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/explain.png)
+![SQL Explain](/profile/img/explain.png)
 
 
 
