@@ -27,7 +27,7 @@
 
 🌱 团队协作：三级权限（拥有者、管理员、普通角色）管理，元素级权限控制
 
-📋 元数据设计：快速复制已有表结构、json 生成表，表默认字段、默认大小写等控制
+📋 元数据设计：快速复制已有表结构、JSON 生成表，表默认字段、默认大小写等控制
 
 🏷 元数据管理：在线管理表结构，支持正向向数据库执行
 
@@ -51,13 +51,13 @@
 
 ## 关于我们
 
-ERD Online体验：[https://erd.zerocode.net.cn](https://erd.zerocode.net.cn)
+ERD Online 体验：[https://erd.zerocode.net.cn](https://erd.zerocode.net.cn)
 
-ERD Online文档：[https://portal.zerocode.net.cn](https://portal.zerocode.net.cn)
+ERD Online 文档：[https://portal.zerocode.net.cn](https://portal.zerocode.net.cn)
 
-官方论坛：[https://www.zerocode.net.cn](https://www.zerocode.net.cn)
+ERD Online 论坛：[https://www.zerocode.net.cn](https://www.zerocode.net.cn)
 
-低代码LOCO体验：[https://loco.zerocode.net.cn](https://loco.zerocode.net.cn)
+低代码 LOCO 体验：[https://loco.zerocode.net.cn](https://loco.zerocode.net.cn)
 
 ## 功能图鉴
 
