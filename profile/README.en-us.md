@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/logo.png)
 
-简体中文 | [English](/README.en-us.md)
+简体中文 | [English](/profile/README.en-us.md)
 
 
 <p align="center"><strong>ERD Online is the world's first open source, free online data modeling and metadata management platform</strong></p>

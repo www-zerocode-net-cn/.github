@@ -1,6 +1,6 @@
-![Logo](https://raw.githubusercontent.com/www-zerocode-net-cn/.github/main/profile/img/logo.png)
+![Logo](/profile/img/logo.png)
 
-简体中文 | [English](/README.en-us.md)
+简体中文 | [English](/profile/README.en-us.md)
 
 
 <p align="center"><strong>ERD Online 是全球第一个开源、免费在线数据建模、元数据管理平台</strong></p>
