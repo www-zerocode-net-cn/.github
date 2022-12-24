@@ -7,7 +7,7 @@
 <p align="center"><strong>It provides simple and easy to use metadata design, diagram design, SQL query and other functions, supplemented by version, import, export, data source, SQL parsing, audit, team collaboration and other functions to facilitate our fast and safe management of metadata in the database</strong></p>
 
 <p align="center">
-<a href="https://erd.zerocode.net.cn"><img alt="ERD%20Online" src="https://img.shields.io/badge/zerocode-ERD%20Online-brightgreen"></a>
+<a href="https://github.com/www-zerocode-net-cn/ERD-Online"><img alt="ERD%20Online" src="https://img.shields.io/badge/zerocode-ERD%20Online-brightgreen"></a>
 <a href="https://github.com/www-zerocode-net-cn/ERD-Online/actions/workflows/ci.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/www-zerocode-net-cn/ERD-Online/ci.yml?branch=main&style=flat-square"></a>
 <a href="https://mvnrepository.com/artifact/com.java2e/martin-extension-ncnb"><img alt="Maven Package" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fjava2e%2Fmartin-extension-ncnb%2Fmaven-metadata.xml"></a>
 </p>

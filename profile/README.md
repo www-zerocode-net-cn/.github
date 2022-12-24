@@ -7,7 +7,7 @@
 <p align="center"><strong>提供简单易用的元数据设计、关系图设计、SQL查询等功能，辅以版本、导入、导出、数据源、SQL解析、审计、团队协作等功能、方便我们快速、安全的管理数据库中的元数据</strong></p>
 
 <p align="center">
-<a href="https://erd.zerocode.net.cn"><img alt="ERD%20Online" src="https://img.shields.io/badge/zerocode-ERD%20Online-brightgreen"></a>
+<a href="https://github.com/www-zerocode-net-cn/ERD-Online"><img alt="ERD%20Online" src="https://img.shields.io/badge/zerocode-ERD%20Online-brightgreen"></a>
 <a href="https://github.com/www-zerocode-net-cn/ERD-Online/actions/workflows/ci.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/www-zerocode-net-cn/ERD-Online/ci.yml?branch=main&style=flat-square"></a>
 <a href="https://mvnrepository.com/artifact/com.java2e/martin-extension-ncnb"><img alt="Maven Package" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fjava2e%2Fmartin-extension-ncnb%2Fmaven-metadata.xml"></a>
 </p>
