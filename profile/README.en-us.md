@@ -1,6 +1,6 @@
 ![Logo](/profile/img/logo.png)
 
-简体中文 | [English](/profile/README.en-us.md)
+[简体中文](/profile/README.md) | English
 
 
 <p align="center"><strong>ERD Online is the world's first open source, free online data modeling and metadata management platform</strong></p>
