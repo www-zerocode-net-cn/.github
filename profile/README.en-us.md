@@ -7,18 +7,16 @@
 <p align="center"><strong>It provides simple and easy to use metadata design, diagram design, SQL query and other functions, supplemented by version, import, export, data source, SQL parsing, audit, team collaboration and other functions to facilitate our fast and safe management of metadata in the database</strong></p>
 
 <p align="center">
-<a href="https://github.com/antvis/X6/actions/workflows/ci.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/antvis/x6/ci.yml?branch=master&logo=github&style=flat-square"></a>
-<!-- <a href="https://app.codecov.io/gh/antvis/X6"><img alt="coverage" src="https://img.shields.io/codecov/c/gh/antvis/x6?logo=codecov&style=flat-square&token=15CO54WYUV"></a> -->
-<a href="https://lgtm.com/projects/g/antvis/x6/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/antvis/x6.svg?logo=lgtm&style=flat-square"></a>
-<a href="https://www.npmjs.com/package/@antv/x6"><img alt="NPM Package" src="https://img.shields.io/npm/v/@antv/x6.svg?style=flat-square"></a>
-<a href="https://www.npmjs.com/package/@antv/x6"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/@antv/x6?logo=npm&style=flat-square"></a>
+<a href="https://erd.zerocode.net.cn"><img alt="ERD%20Online" src="https://img.shields.io/badge/zerocode-ERD%20Online-brightgreen"></a>
+<a href="https://github.com/www-zerocode-net-cn/ERD-Online/actions/workflows/ci.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/www-zerocode-net-cn/ERD-Online/ci.yml?branch=main&style=flat-square"></a>
+<a href="https://mvnrepository.com/artifact/com.java2e/martin-extension-ncnb"><img alt="Maven Package" src="https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fjava2e%2Fmartin-extension-ncnb%2Fmaven-metadata.xml"></a>
 </p>
 
 <p align="center">
-<a href="/LICENSE"><img src="https://img.shields.io/github/license/antvis/x6?style=flat-square" alt="MIT License"></a>
+<a href="https://github.com/www-zerocode-net-cn/ERD-Online/blob/master/LICENSE"><img src="https://img.shields.io/github/license/www-zerocode-net-cn/ERD-Online?style=flat-square" alt="AGPL-V3 License"></a>
 <a href="https://www.typescriptlang.org"><img alt="Language" src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square"></a>
-<a href="https://github.com/antvis/x6/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
-<a href="https://x6.antv.antgroup.com"><img alt="website" src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=0076D6&style=flat-square&logo=google-chrome&logoColor=0076D6"></a>
+<a href="https://github.com/www-zerocode-net-cn/ERD-Online/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
+<a href="https://www.zerocode.net.cn"><img alt="website" src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=0076D6&style=flat-square&logo=google-chrome&logoColor=0076D6"></a>
 </p>
 
 ## Features
