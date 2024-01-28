@@ -1,4 +1,4 @@
-![Logo](img/logo.png)
+![Logo](profile/img/logo.png)
 
 简体中文 | [English](README.en-us.md)
 
@@ -45,7 +45,7 @@
 
 ## 发展里程碑
 
-![milepost](img/milepost.png)
+![milepost](profile/img/milepost.png)
 
 ## 产品图鉴
 ![ERD Online功能树](https://user-images.githubusercontent.com/26294919/230535866-1936a1aa-099b-4b75-80ba-442c2c22cf55.png)

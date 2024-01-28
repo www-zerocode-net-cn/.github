@@ -1,4 +1,4 @@
-![Logo](img/logo.png)
+![Logo](profile/img/logo.png)
 
 [简体中文](README.md) | English
 
@@ -45,7 +45,7 @@
 
 ## Development Milestones 🛤️
 
-![milepost](img/milepost.png)
+![milepost](profile/img/milepost.png)
 
 ## Product Atlas 🗺️
 ![ERD Online Function Tree](https://user-images.githubusercontent.com/26294919/230535866-1936a1aa-099b-4b75-80ba-442c2c22cf55.png)
@@ -67,25 +67,25 @@ Backend Source Code:
 ## Function Atlas
 
 ### Diagram Design
-![Diagram](img/relation.png)
+![Diagram](profile/img/relation.png)
 
 ### Metadata Design
-![Metadata](img/table.png)
+![Metadata](profile/img/table.png)
 
 ### Version Management
-![Version](img/version.png)
+![Version](profile/img/version.png)
 
 ### Import
-![Import](img/import.png)
+![Import](profile/img/import.png)
 
 ### Export
-![Export DDL](img/export.png)
+![Export DDL](profile/img/export.png)
 
 ### Online SQL
-![Online SQL](img/query.png)
+![Online SQL](profile/img/query.png)
 
 ### SQL Explain
-![SQL Explain](img/explain.png)
+![SQL Explain](profile/img/explain.png)
 
 
 
