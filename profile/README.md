@@ -1,6 +1,6 @@
-![Logo](/profile/img/logo.png)
+![Logo](/img/logo.png)
 
-简体中文 | [English](/profile/README.en-us.md)
+简体中文 | [English](/README.en-us.md)
 
 
 <p align="center"><strong>ERD Online 是全球第一个开源、免费在线数据建模、元数据管理平台</strong></p>
@@ -16,7 +16,7 @@
 <a href="https://github.com/www-zerocode-net-cn/ERD-Online/blob/master/LICENSE"><img src="https://img.shields.io/github/license/www-zerocode-net-cn/ERD-Online?style=flat-square" alt="AGPL-V3 License"></a>
 <a href="https://www.typescriptlang.org"><img alt="Language" src="https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square"></a>
 <a href="https://github.com/www-zerocode-net-cn/ERD-Online/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square"></a>
-<a href="https://www.zerocode.net.cn"><img alt="website" src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=0076D6&style=flat-square&logo=google-chrome&logoColor=0076D6"></a>
+<a href="https://www.erdonline.com"><img alt="website" src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=0076D6&style=flat-square&logo=google-chrome&logoColor=0076D6"></a>
 </p>
 
 ## 特性
@@ -45,43 +45,49 @@
 
 ## 发展里程碑
 
-![milepost](/profile/img/milepost.png)
+![milepost](/img/milepost.png)
+
+## 产品图鉴
+![ERD Online功能树](https://user-images.githubusercontent.com/26294919/230535866-1936a1aa-099b-4b75-80ba-442c2c22cf55.png)
 
 ## 关于我们
 
-ERD Online 体验：[https://erd.zerocode.net.cn](https://erd.zerocode.net.cn)
+元数据 ERD Online 官网：[https://www.erdonline.com/](https://www.erdonline.com/)
 
-ERD Online 文档：[https://portal.zerocode.net.cn](https://portal.zerocode.net.cn)
+元数据 ERD Online 体验：[https://app.erdonline.com/](https://app.erdonline.com/)
 
-ERD Online 论坛：[https://www.zerocode.net.cn](https://www.zerocode.net.cn)
+元数据 ERD Online 文档：[https://doc.erdonline.com/](https://doc.erdonline.com/)
 
-低代码 LOCO 体验：[https://loco.zerocode.net.cn](https://loco.zerocode.net.cn)
+论坛：[https://github.com/www-zerocode-net-cn/ERD-Online/discussions](https://github.com/www-zerocode-net-cn/ERD-Online/discussions)
+
+后端源码：
+- [集群版](https://github.com/www-zerocode-net-cn/martin-framework)
+- [单机版](https://gitee.com/MARTIN-88/erd-apis)
 
 ## 功能图鉴
 
 ### 关系图设计
-![关系图](/profile/img/relation.png)
+![关系图](https://typora-1306557034.cos.ap-beijing.myqcloud.com/relation.png)
 
 ### 元数据设计
-![元数据](/profile/img/table.png)
+![元数据](https://typora-1306557034.cos.ap-beijing.myqcloud.com/table.png)
 
 ### 版本管理
-![版本管理](/profile/img/version.png)
+![版本管理](https://typora-1306557034.cos.ap-beijing.myqcloud.com/version.png)
 
 ### 导入
-![逆向解析](/profile/img/import.png)
+![逆向解析](https://typora-1306557034.cos.ap-beijing.myqcloud.com/import.png)
 
 ### 导出
-![导出DDL](/profile/img/export.png)
+![导出DDL](https://typora-1306557034.cos.ap-beijing.myqcloud.com/export.png)
 
 ### 在线SQL
-![SQL查询](/profile/img/query.png)
+![SQL查询](https://typora-1306557034.cos.ap-beijing.myqcloud.com/query.png)
 
 ### 执行计划
-![执行计划](/profile/img/explain.png)
+![执行计划](https://typora-1306557034.cos.ap-beijing.myqcloud.com/explain.png)
 
-
-
-
+### 微信公众号
+![微信公众号](https://typora-1306557034.cos.ap-beijing.myqcloud.com/mp.jpg)
 
  
