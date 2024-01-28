@@ -1,6 +1,6 @@
 ![Logo](profile/img/logo.png)
 
-[简体中文](README.md) | English
+[简体中文](profile/README.md) | English
 
 
 <p align="center"><strong>🌍 ERD Online: The World's First Open Source, Free Online Data Modeling and Metadata Management Platform 🚀</strong></p>
